@@ -1,0 +1,6 @@
+framework module Pods_RNDancerWonderfullShow {
+  umbrella header "Pods-RNDancerWonderfullShow-umbrella.h"
+
+  export *
+  module * { export * }
+}
